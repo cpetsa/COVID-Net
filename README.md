@@ -4,6 +4,7 @@
 
 **Recording to webinar on [How we built COVID-Net in 7 days with Gensynth](https://darwinai.news/fny)**
 
+**Update 01/05/2021:** We released a new COVIDx6 dataset for binary classification (COVID-19 positive or COVID-19 negative) with over 14500 CXR images and 617 positive COVID-19 images.\
 **Update 11/24/2020:** We released [CancerNet-SCa](https://github.com/jamesrenhoulee/CancerNet-SCa) for skin cancer detection, part of the CancerNet initiatives.\
 **Update 11/15/2020:** We released COVIDNet-P [inference](inference_pneumonia.py) and [evaluation](eval_pneumonia.py) scripts for identifying pneumonia in CXR images using the COVIDx5 dataset. For more information please refer to this [doc](docs/covidnet_pneumonia.md).\
 **Update 10/30/2020:** We released a new COVIDx5 dataset with over 14200 CXR images and 617 positive COVID-19 images.\
@@ -83,12 +84,16 @@ Training, inference, and evaluation scripts for COVIDNet-CXR, COVIDNet-CT, COVID
 	* Audrey Chung
 	* Melissa Rinch
 	* Maya Pavlova
+	* Naomi Terhljan
+	* Siddharth Surana
   * Naomi Terhljan
 	* Hayden Gunraj, COVIDNet for CT: https://github.com/haydengunraj/COVIDNet-CT
 	* Jeffer Peng, COVIDNet UI: https://github.com/darwinai/covidnet_ui
 * Vision and Image Processing Research Group, University of Waterloo, Canada
 	* James Lee
-	* Hossain Aboutaleb 
+	* Hossein Aboutalebi
+	* Alex MacLean
+	* Saad Abbasi
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
 * Kim-Ann Git (Selayang Hospital)
 * Abdul Al-Haimi, COVID-19 ShuffleNet Chest X-Ray Model: https://github.com/aalhaimi/covid-net-cxr-shuffle
